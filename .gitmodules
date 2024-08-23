@@ -1,0 +1,4 @@
+[submodule "psiphon-tunnel-core"]
+	path = psiphon-tunnel-core
+	url = https://github.com/Psiphon-Labs/psiphon-tunnel-core.git
+	shallow = true
